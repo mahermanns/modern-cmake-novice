@@ -1,20 +1,10 @@
-# The Carpentries Workbench Template Markdown Lesson
+# Using Modern CMake
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
+This lesson introduces state-of-the-art best practices for using CMake to configure and build their compiled C, C++, and/or Fortran applications.
 
-## Note about lesson life cycle stage
-Although the `config.yaml` states the life cycle stage as pre-alpha, **the template is stable and ready to use**. The life cycle stage is preset to `"pre-alpha"` as this setting is appropriate for new lessons initialised using the template.
+## Life-Cycle Stage:
 
-## Create a new repository from this template
-
-To use this template to start a new lesson repository, 
-make sure you're logged into Github.   
-Visit https://github.com/carpentries/workbench-template-md/generate
-and follow the instructions.
-Checking the 'Include all branches' option will save some time waiting for the first website build
-when your new repository is initialised.
-
-If you have any questions, contact [@tobyhodges](https://github.com/tobyhodges)
+This lesson is currently in `pre-alpha` and should now be used for training purposes yet.
 
 ## Configure a new lesson
 
